@@ -9,7 +9,7 @@
   
   inputs.src-sass-master.flake = false;
   inputs.src-sass-master.owner = "dom96";
-  inputs.src-sass-master.ref   = "refs/heads/master";
+  inputs.src-sass-master.ref   = "master";
   inputs.src-sass-master.repo  = "sass";
   inputs.src-sass-master.type  = "github";
   
